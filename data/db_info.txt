@@ -1,0 +1,4 @@
+Host: localhost
+User: imdbRoulette
+Password: imdbroul
+DB: imdbroulette
